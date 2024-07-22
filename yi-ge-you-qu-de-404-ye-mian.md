@@ -13,11 +13,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>404 Not Found</title>
-\t<link rel="shortcut icon" href="https://daoxi365.github.io/tech-blog/favicon.ico">
-\t<link href="https://cdn.bootcdn.net/ajax/libs/font-awesome/6.5.2/css/all.min.css" rel="stylesheet">
-\t<link rel="preconnect" href="https://fonts.googleapis.com">
-\t<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-\t<link href="https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap" rel="stylesheet">
+	<link rel="shortcut icon" href="https://daoxi365.github.io/tech-blog/favicon.ico">
+	<link href="https://cdn.bootcdn.net/ajax/libs/font-awesome/6.5.2/css/all.min.css" rel="stylesheet">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap" rel="stylesheet">
     <style>
         body {
             margin: 0;
@@ -52,12 +52,12 @@
         }
 
         .title-bar .title {
-\t\t\tfont-family: 'Ubuntu';
+			font-family: 'Ubuntu';
             flex-grow: 1;
         }
 
         .title-bar .close {
-\t\t\tfont-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+			font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             width: 40px; /* 增大宽度 */
             height: 40px; /* 增大高度 */
             text-align: center;
@@ -94,7 +94,7 @@
         }
 
         .error-icon {
-\t\t\tfont-family: 'Segoe UI';
+			font-family: 'Segoe UI';
             background-color: rgb(221, 70, 10); /* 红色背景 */
             color: rgb(250, 250, 250); /* 白色图标 */
             width: 80px; /* 增大尺寸 */
@@ -112,7 +112,7 @@
         }
 
         .error-details {
-\t\t\tfont-family: 'Ubuntu';
+			font-family: 'Ubuntu';
             flex: 1; /* 占据剩余空间 */
             text-align: center;
         }

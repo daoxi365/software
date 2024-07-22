@@ -1,4 +1,4 @@
-此网站是 `PanDaoxi's Tech Blog` 分站的分站，是 PanDaoxi 技术博客下的分站。
+此网站是 `PanDaoxi's Tech Blog` 的分站，是 `Daoxi365` 网站分站的分站。
 `Daoxi365` 创立于 $2022$ 年 $8$ 月，由 PanDaoxi 开发并运营至今。
 
 所有文章皆为作者原创，禁止转载；
